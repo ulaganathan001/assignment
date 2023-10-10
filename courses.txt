@@ -3,3 +3,7 @@ back-end
 full-stack
 machine learning
 data science
+
+AI
+LLM
+Chatgpt
