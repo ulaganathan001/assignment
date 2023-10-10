@@ -7,3 +7,5 @@ data science
 AI
 LLM
 Chatgpt
+
+some changes made
